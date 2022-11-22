@@ -10,4 +10,4 @@ You are given three **lists, names ,mark's and update's** where:
 
 (Number of levels a student is ranking up or down must be displayed)
 
-**(Student is free to decide the input and output layout for this mini project**
+**(Student is free to decide the input and output layout for this mini project)**
