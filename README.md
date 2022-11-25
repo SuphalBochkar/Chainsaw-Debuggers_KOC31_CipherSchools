@@ -14,7 +14,7 @@ You are given three lists’ names, mark’s and update’s where: <br>
 
 
 
-## Contributors!
+## Project Contributors!
 
 | Name               | Section    | Registraion number|Roll No |Linkedin Profile                        |Github Profile         |
 | :---               |    :----:  |         :---:     | :----:      |:---:                                    | ---:                  |
