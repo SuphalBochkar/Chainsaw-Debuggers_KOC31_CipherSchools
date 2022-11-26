@@ -19,7 +19,7 @@ You are given three lists’ names, mark’s and update’s where: <br>
 ## Project Contributors!
 
 | Name               | Section    | Registraion number|Roll No |Linkedin Profile                        |Github Profile         |
-| :---               |    :----:  |         :---:     | :----:      |:---:                                    | ---:                  |
+| :---               |    :----:  |         :---:     | :----:      |:---:                                    | :---                  |
 | Sujal Bochkar      | KOC31      | 12217305          | B66|<a href="https://linkedin.com/in/sujal-bochkar-9a2a02254" target="_blank"> Linkedin-Sujal Bochkar </a> |<a href="https://github.com/SujalBochkar" target="_blank"> GitHub-Sujal Bochkar </a>|
 | Suphal Bochkar     | KOC31      | 12217305          |B67|<a href="https://linkedin.com/in/suphal-bochkar-35815a255" target="_blank"> Linkedin-Suphal Bochkar </a>|<a href="https://github.com/SuphalBochkar" target="_blank"> GitHub-Suphal Bochkar </a>|
 | Aditya Tiwari      | KOC31      | 12217452          |B68|<a href="https://linkedin.com/in/aditya-tiwari-9745ba255" target="_blank"> Linkedin-Aditya Tiwari </a> |<a href="https://github.com/ADI420tiwari" target="_blank"> GitHub-Aditya Tiwar </a>|
