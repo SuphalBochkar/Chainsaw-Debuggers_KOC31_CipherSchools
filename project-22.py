@@ -33,6 +33,21 @@ c=sorted_updated
 
 # # !Top Ranker in one row
 for i in range(len(b)):
-    if c[1][0] == b[i][0] :
+    if c[0][0] == b[i][0] :
         print(f"Name: {c[0][0]}, New Marks {c[0][1]}, New Rank: 1, Old Marks {b[i][1]}, Old Rank: {i+1}  Rank Jump: {i}" ) 
+print()
+
+
+# ! Print All Students 
+for i in range(len(c)):
+    print(f"Rank: {i+1} ")
+    print(f"Name: {c[i][0]}")
+    print(f"New Marks: {c[i][1]}")
+    for j in range(len(b)):
+        if c[i][0] == b[j][0]:
+                print(f"Rank Jump: {(j-i)}")
+                print(f"Old rank: {j+1}")
+                print(f"Old Marks: {b[j][1]}")
+    print()
+
 print()
